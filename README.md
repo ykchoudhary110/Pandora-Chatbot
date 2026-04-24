@@ -15,6 +15,7 @@ Python
 Pandas, NumPy
 Sentence Transformers (Hugging Face)
 FAISS (Vector Search Engine)
+LLM (FLAN-T5) generates response)
 Gradio (UI Framework)
 
 🧩 How It Works
